@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cadastros\Cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\Fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\FrmHospedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\FrmQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movimentacoes\Servicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\FrmServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastros\Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movimentacoes\FrmMovimentacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movimentacoes\Gastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Produtos\Estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Produtos\Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservas\FrmCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservas\FrmCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservas\FrmConsultarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservas\FrmReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
